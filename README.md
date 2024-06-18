@@ -6,4 +6,10 @@
 
 #-🎮 I love playing games and watching anime 
 
-#-🌱i'm learning about open source this summer.
+#- I am a intern at ucsc santa cruz
+
+#-🌱i'm learning about open source this summer
+
+#- I like going on adventures like hiking,zipling, swiming
+
+
