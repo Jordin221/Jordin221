@@ -2,14 +2,16 @@
 
 - 👋 hi my name jordin
 
-- 📕 I attend norfolk state university
+- 📕 I'm a graduate from norfolk state university in computer science 
 
 - 🎮 I love playing games and watching anime 
 
-- 🧑‍🎓I am a intern at ucsc santa cruz
+- 🧑‍🎓I am a mentor at ucsc santa cruz
 
-- 🌱i'm learning about open source this summer
+- 🌱I'm learning how to teach open source this summer
 
-- 🚴🏾I like going on adventures like hiking,zipling, swiming
+- 🚴🏾I like going on adventures like hiking, zipling, swiming
+
+- :smile: I like talking and listening to others... I just like socializing 
 
 
